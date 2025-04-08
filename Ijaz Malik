@@ -6,8 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="container">
-        <h1>first git</h1>
-    </div>
+    <h1>Welcome to Aptech</h1>
 </body>
 </html>
